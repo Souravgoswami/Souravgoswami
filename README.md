@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravgoswami)
+![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravgoswami&bg_color=45,55f,3eb&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravgoswami&bg_color=45,55f,FD5068&title_color=fff&text_color=fff)]
 
 <!--
 **Souravgoswami/Souravgoswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
