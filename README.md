@@ -59,7 +59,7 @@ I believe Programmers are like 21st centuries architect, slowly pushing humanity
 	&nbsp;&nbsp;
 	<img title="CSS3" src="https://raw.githubusercontent.com/Souravgoswami/Souravgoswami/master/assets/css3.png" width="24px" height="24px">
 	&nbsp;&nbsp;
-	<img title="CSS3" src="https://raw.githubusercontent.com/Souravgoswami/Souravgoswami/master/assets/sass.png" width="24px" height="24px">
+	<img title="Sass" src="https://raw.githubusercontent.com/Souravgoswami/Souravgoswami/master/assets/sass.png" width="24px" height="24px">
 	&nbsp;&nbsp;
 </div>
 
